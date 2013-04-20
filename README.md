@@ -4,7 +4,7 @@ This example/engine shows how to create a functional platformer with many featur
 
 # Credits
 
-Originally created by Noel Berry (www.noelberry.ca)
-Ported by Julien Samama (@allinlabs)
-HaxePunk library by @Matt_Tuttle (http://www.haxepunk.com)
-FlashPunk library by Chevy Ray
+Originally created by Noel Berry (www.noelberry.ca)  
+Ported by Julien Samama (@allinlabs)  
+HaxePunk library by @Matt_Tuttle (http://www.haxepunk.com)  
+FlashPunk library by Chevy Ray  
